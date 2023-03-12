@@ -1,0 +1,40 @@
+body {
+    margin: 5px;
+    
+}
+
+.card {
+    width: 500px; 
+    height: fit-content; 
+    background-color: antiquewhite; 
+    margin: 18px;
+}
+
+.borda-card{
+    border: 2px solid rgb(21, 255, 0);
+
+}
+.perfil{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(17, 0, 255);
+}
+.icon{
+    width: 100%
+}
+
+
+.h{
+    color: rgb(187, 255, 0); 
+    font-family: cursive;
+}
+.p{
+    color: blue; 
+    font-family: cursive;
+}
+.span{
+    color: rgb(255, 0, 212);
+}
+.span2{
+    color: rgb(0, 0, 0);
+}
